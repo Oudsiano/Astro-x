@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504d02d163fd4a81b2087afae8583d4b, type: 3}
+  m_Name: Mercury
+  m_EditorClassIdentifier: 
+  Size: 2
+  RotationSpeed: 5
+  Texture: {fileID: 2800000, guid: 80f7196aa8c2c6d438582bbb4f820c79, type: 3}
+  Prefab: {fileID: 7305107151784099966, guid: ab152f61198d54532ae39108e616ff59, type: 3}
+  InfoSlides:
+  - PreviewSprite: {fileID: 21300000, guid: e26f836270e794742b49eb483c3578ad, type: 3}
+    TextAsset: {fileID: 4900000, guid: 8330ef935b74cce4aa2b491b5fbac605, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: 48ee844d0aad8c64bb0b17af08fcbf78, type: 3}
+    TextAsset: {fileID: 4900000, guid: 8a8e6f35bb43758419365676ea51aed7, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: f920d62b2ab80da409e06fb8dae14485, type: 3}
+    TextAsset: {fileID: 4900000, guid: 7f890dde8592496449d8750c28939eca, type: 3}

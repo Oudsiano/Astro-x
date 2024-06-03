@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504d02d163fd4a81b2087afae8583d4b, type: 3}
+  m_Name: Sedna
+  m_EditorClassIdentifier: 
+  Size: 0.1
+  RotationSpeed: 5
+  Texture: {fileID: 2800000, guid: 963467a653b465441badc8eb95e40de3, type: 3}
+  Prefab: {fileID: 0}
+  InfoSlides:
+  - PreviewSprite: {fileID: 21300000, guid: 0979eae70188c6b429139e6260f39be1, type: 3}
+    TextAsset: {fileID: 4900000, guid: 4092e193462e4f5c88481266d525eabf, type: 3}

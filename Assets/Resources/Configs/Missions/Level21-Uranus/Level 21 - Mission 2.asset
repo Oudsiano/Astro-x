@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5458658d2a1143a4b0d822e34d183593, type: 3}
+  m_Name: Level 21 - Mission 2
+  m_EditorClassIdentifier: 
+  RewardScoresForFullMission: 0
+  SpeedMultiplier: 1.4
+  Stages:
+  - SpawnObjectsType: 0
+    ObjectsCount: 1
+    SpawnObjectData: {fileID: 11400000, guid: bca4bc4bfd9d7ca4ba8a57d0eb5a58ad, type: 2}
+    ShootCooldown: 1.4
+    Health: 30
+  - SpawnObjectsType: 1
+    ObjectsCount: 5
+    SpawnObjectData: {fileID: 11400000, guid: 893cadb7bd9653342b48b7e4c9deadae, type: 2}
+    ShootCooldown: 1.4
+    Health: 23
+  - SpawnObjectsType: 0
+    ObjectsCount: 1
+    SpawnObjectData: {fileID: 11400000, guid: bca4bc4bfd9d7ca4ba8a57d0eb5a58ad, type: 2}
+    ShootCooldown: 1.4
+    Health: 30
+  - SpawnObjectsType: 6
+    ObjectsCount: 20
+    SpawnObjectData: {fileID: 11400000, guid: 15022209b62cfeb4e962a36d6757abf8, type: 2}
+    ShootCooldown: 0
+    Health: 2

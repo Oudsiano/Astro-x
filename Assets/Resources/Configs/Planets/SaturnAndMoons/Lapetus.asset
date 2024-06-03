@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504d02d163fd4a81b2087afae8583d4b, type: 3}
+  m_Name: Lapetus
+  m_EditorClassIdentifier: 
+  Size: 0.1
+  RotationSpeed: 5
+  Texture: {fileID: 2800000, guid: 193790d9c9f1d3042a97a21774801859, type: 3}
+  InfoSlides:
+  - PreviewSprite: {fileID: 21300000, guid: d6df842112235d442b9bf9e7bd7cee08, type: 3}
+    TextAsset: {fileID: 4900000, guid: 56fab95d2cf04207825bb37874140784, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: cedb81cc68577f240bcb0accb38f4f9c, type: 3}
+    TextAsset: {fileID: 4900000, guid: c61a97b388a04e05a0d01d662e51d4f7, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504d02d163fd4a81b2087afae8583d4b, type: 3}
+  m_Name: Rhea
+  m_EditorClassIdentifier: 
+  Size: 0.1
+  RotationSpeed: 5
+  Texture: {fileID: 2800000, guid: 7b8928a63fe067b4590cc273af868921, type: 3}
+  InfoSlides:
+  - PreviewSprite: {fileID: 21300000, guid: fb07474ffd2ce7f479a6c0568e6f38a3, type: 3}
+    TextAsset: {fileID: 4900000, guid: 9ec815fbb80047cf90b7298dcafc30da, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: 47b1d8a7fbcd034498a5abf4d30d9508, type: 3}
+    TextAsset: {fileID: 4900000, guid: 0d9940b88a584c8f906f75f15c56da23, type: 3}

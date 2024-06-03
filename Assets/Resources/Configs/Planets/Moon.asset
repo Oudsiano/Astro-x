@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504d02d163fd4a81b2087afae8583d4b, type: 3}
+  m_Name: Moon
+  m_EditorClassIdentifier: 
+  Size: 2
+  RotationSpeed: 5
+  Texture: {fileID: 2800000, guid: 388e48a616e4ae64db32c2afbc95a0d7, type: 3}
+  Prefab: {fileID: 1386839287318902288, guid: f9a741bb8762344c6a2a9cb4217ef728, type: 3}
+  InfoSlides:
+  - PreviewSprite: {fileID: 21300000, guid: 314c6bcc331e3814198500745cdfe0ac, type: 3}
+    TextAsset: {fileID: 4900000, guid: e042fed8d3d683d469cdc4136e6eecee, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: 093d2f0c990d10d4693491503fdea4f2, type: 3}
+    TextAsset: {fileID: 4900000, guid: 3cc623cbc0b0af841a431ad5a3c8b6db, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: 786a1e89d51ca144c88886512a01af1e, type: 3}
+    TextAsset: {fileID: 4900000, guid: c8c2390360c747d4b86d1ff32776ca33, type: 3}

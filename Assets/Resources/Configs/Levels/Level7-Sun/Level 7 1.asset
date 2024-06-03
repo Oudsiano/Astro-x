@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10caa74bc03f48ea8a5db995914296c0, type: 3}
+  m_Name: Level 7 1
+  m_EditorClassIdentifier: 
+  LevelName: "\u0421\u043E\u043B\u043D\u0446\u0435 - 1"
+  ShowPlanetInfo: 1
+  OnlyShowInfo: 0
+  LevelMusic: {fileID: 8300000, guid: 3bb64f43e2781534eb2d5507cee0a59b, type: 3}
+  LevelMusicPath: "Audio/Music/Level 7/1 \u0412\u043E \u0432\u0435\u0441\u044C \u044D\u043A\u0440\u0430\u043D
+    \u043E\u0433\u0440\u043E\u043C\u043D\u043E\u0435 \u0421\u043E\u043B\u043D\u0446\u0435
+    \u0441 \u0432\u044B\u0431\u0440\u0430\u0441\u044B\u0432\u0430\u043D\u0438\u0435\u043C
+    \u043F\u043B\u0430\u0437\u043C\u044B (1)"
+  LevelMission: {fileID: 11400000, guid: 69574e73f1db2a342b441ddf62437d37, type: 2}
+  Planet: {fileID: 11400000, guid: 114b49afe3cd5be4a9caabf2788be7d1, type: 2}
+  PlanetStartPosition: 0.5
+  PlanetHorizontalPosition: 0.5
+  PlanetSizeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0.4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  PlanetLeaveTime: 250
+  StopPlanetOnEnd: 0

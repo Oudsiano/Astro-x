@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8738b2dd6d946e1a438abe13f682120, type: 3}
+  m_Name: Player Ships Data
+  m_EditorClassIdentifier: 
+  PlayerShips:
+  - OpenOnAllLevelsCompleted: 0
+    Name: Rookie Spacecraft
+    Sprite: {fileID: 21300000, guid: dcd41b7c79c86884dad1cc15ea336b2c, type: 3}
+    ShipContainer: {fileID: 6364133477646337186, guid: adc601048d83ca84d8d1a90f1693b735, type: 3}
+    Cost: 0
+    UseGrayScale: 0
+    ProjectileColor: {r: 1, g: 1, b: 1, a: 1}
+    LaserPrefab: {fileID: 114678305193455830, guid: b67042affc59bdf469a26afcc712c2bc, type: 3}
+    AlwaysBoostedLaser: 0
+    Damage: 0.2
+    ReloadTime: 0.2
+    ProjectileSpeed: 15
+    MaxHp: 10
+  - OpenOnAllLevelsCompleted: 0
+    Name: Space Walker
+    Sprite: {fileID: 21300000, guid: f6d9e7337b90b9e4ba6d44379335a759, type: 3}
+    ShipContainer: {fileID: 2262018984658473813, guid: 03d031750c017f44dae6b34ba51f5caa, type: 3}
+    Cost: 2500
+    UseGrayScale: 1
+    ProjectileColor: {r: 0.135849, g: 1, b: 0.8799741, a: 1}
+    LaserPrefab: {fileID: 114678305193455830, guid: b67042affc59bdf469a26afcc712c2bc, type: 3}
+    AlwaysBoostedLaser: 0
+    Damage: 0.4
+    ReloadTime: 0.2
+    ProjectileSpeed: 15
+    MaxHp: 10
+  - OpenOnAllLevelsCompleted: 0
+    Name: Star Wanderer
+    Sprite: {fileID: 21300000, guid: 636bae91370e1de4e947a501be89396a, type: 3}
+    ShipContainer: {fileID: 8681273895691158050, guid: 593d7b33dd86530418a0b57392a55cfd, type: 3}
+    Cost: 4000
+    UseGrayScale: 0
+    ProjectileColor: {r: 1, g: 1, b: 1, a: 1}
+    LaserPrefab: {fileID: 114678305193455830, guid: b67042affc59bdf469a26afcc712c2bc, type: 3}
+    AlwaysBoostedLaser: 0
+    Damage: 0.4
+    ReloadTime: 0.18
+    ProjectileSpeed: 17
+    MaxHp: 10
+  - OpenOnAllLevelsCompleted: 0
+    Name: Mercurial Sprinter
+    Sprite: {fileID: 21300000, guid: 4502233aa90df2a4192bac792a27bd14, type: 3}
+    ShipContainer: {fileID: 3334807866905263065, guid: eb4ae8eaf5c48a34e80b3d10159e0ce9, type: 3}
+    Cost: 7000
+    UseGrayScale: 1
+    ProjectileColor: {r: 0.2584905, g: 1, b: 0.34204093, a: 1}
+    LaserPrefab: {fileID: 114678305193455830, guid: b67042affc59bdf469a26afcc712c2bc, type: 3}
+    AlwaysBoostedLaser: 0
+    Damage: 0.4
+    ReloadTime: 0.15
+    ProjectileSpeed: 18
+    MaxHp: 10
+  - OpenOnAllLevelsCompleted: 0
+    Name: Titanium Guardian
+    Sprite: {fileID: 21300000, guid: faa833deaf409a44db3e69685e0fe26c, type: 3}
+    ShipContainer: {fileID: 3908587859283332173, guid: 4f046c3cb9a693a4d8a641ac5721e74a, type: 3}
+    Cost: 10000
+    UseGrayScale: 0
+    ProjectileColor: {r: 1, g: 1, b: 1, a: 1}
+    LaserPrefab: {fileID: 114678305193455830, guid: b67042affc59bdf469a26afcc712c2bc, type: 3}
+    AlwaysBoostedLaser: 0
+    Damage: 0.45
+    ReloadTime: 0.15
+    ProjectileSpeed: 20
+    MaxHp: 12
+  - OpenOnAllLevelsCompleted: 0
+    Name: Cosmic Vector
+    Sprite: {fileID: 21300000, guid: 7bfb5896830e66941a6a3b3d58b243a6, type: 3}
+    ShipContainer: {fileID: 1568925807676446997, guid: c2434611f40ebc64ebd3dea80c5c3dc9, type: 3}
+    Cost: 15000
+    UseGrayScale: 0
+    ProjectileColor: {r: 1, g: 1, b: 1, a: 1}
+    LaserPrefab: {fileID: 114678305193455830, guid: b67042affc59bdf469a26afcc712c2bc, type: 3}
+    AlwaysBoostedLaser: 0
+    Damage: 0.5
+    ReloadTime: 0.14
+    ProjectileSpeed: 20
+    MaxHp: 15
+  - OpenOnAllLevelsCompleted: 0
+    Name: Solar Ray
+    Sprite: {fileID: 21300000, guid: e9c8aa4d18b196c48bad4e2caa304296, type: 3}
+    ShipContainer: {fileID: 234067013116947064, guid: 501d8bb69f244684e845a5dc4430a204, type: 3}
+    Cost: 20000
+    UseGrayScale: 0
+    ProjectileColor: {r: 1, g: 1, b: 1, a: 1}
+    LaserPrefab: {fileID: 114678305193455830, guid: b67042affc59bdf469a26afcc712c2bc, type: 3}
+    AlwaysBoostedLaser: 0
+    Damage: 0.4
+    ReloadTime: 0.1
+    ProjectileSpeed: 20
+    MaxHp: 15
+  - OpenOnAllLevelsCompleted: 0
+    Name: Galactic Varrior
+    Sprite: {fileID: 21300000, guid: d70096045690a8446ba9199dd81623cb, type: 3}
+    ShipContainer: {fileID: 8210560588520892023, guid: 2a128278fb357fe4bb99d05b5280a4a2, type: 3}
+    Cost: 25000
+    UseGrayScale: 1
+    ProjectileColor: {r: 1, g: 1, b: 1, a: 1}
+    LaserPrefab: {fileID: 114678305193455830, guid: b67042affc59bdf469a26afcc712c2bc, type: 3}
+    AlwaysBoostedLaser: 0
+    Damage: 0.5
+    ReloadTime: 0.1
+    ProjectileSpeed: 22
+    MaxHp: 10
+  - OpenOnAllLevelsCompleted: 0
+    Name: Orbital Avenger
+    Sprite: {fileID: 21300000, guid: 0d7770a621d3e2f44b10e8ae5b65dcea, type: 3}
+    ShipContainer: {fileID: 3380939111384367598, guid: e01d2cf4a20460140a39b88766a06ca2, type: 3}
+    Cost: 30000
+    UseGrayScale: 0
+    ProjectileColor: {r: 1, g: 1, b: 1, a: 1}
+    LaserPrefab: {fileID: 114678305193455830, guid: b67042affc59bdf469a26afcc712c2bc, type: 3}
+    AlwaysBoostedLaser: 0
+    Damage: 0.8
+    ReloadTime: 0.1
+    ProjectileSpeed: 22
+    MaxHp: 15
+  - OpenOnAllLevelsCompleted: 0
+    Name: Star Emperor
+    Sprite: {fileID: 21300000, guid: 7f4fee3ed06130a4ca221ab82072689a, type: 3}
+    ShipContainer: {fileID: 6530256160254109110, guid: 5726a82876f97754fae62d3b4aeda2bf, type: 3}
+    Cost: 35000
+    UseGrayScale: 0
+    ProjectileColor: {r: 1, g: 1, b: 1, a: 1}
+    LaserPrefab: {fileID: 114678305193455830, guid: b67042affc59bdf469a26afcc712c2bc, type: 3}
+    AlwaysBoostedLaser: 0
+    Damage: 1
+    ReloadTime: 0.1
+    ProjectileSpeed: 25
+    MaxHp: 20
+  - OpenOnAllLevelsCompleted: 0
+    Name: Quantum Breakthrough
+    Sprite: {fileID: 21300000, guid: a236928f81ff72340aad222ed9ae7a3f, type: 3}
+    ShipContainer: {fileID: 6577795359285237276, guid: d7d1124b477927e498205403be20c319, type: 3}
+    Cost: 40000
+    UseGrayScale: 0
+    ProjectileColor: {r: 1, g: 1, b: 1, a: 1}
+    LaserPrefab: {fileID: 114678305193455830, guid: b67042affc59bdf469a26afcc712c2bc, type: 3}
+    AlwaysBoostedLaser: 0
+    Damage: 1.3
+    ReloadTime: 0.1
+    ProjectileSpeed: 25
+    MaxHp: 20
+  - OpenOnAllLevelsCompleted: 0
+    Name: Hyperion Legend
+    Sprite: {fileID: 21300000, guid: 71234fecb323b1b46b04606103b3efb3, type: 3}
+    ShipContainer: {fileID: 8589694884036514521, guid: 6219b97d7adf7d149b234a6bf0549911, type: 3}
+    Cost: 50000
+    UseGrayScale: 1
+    ProjectileColor: {r: 0.90943396, g: 0.9731531, b: 1, a: 1}
+    LaserPrefab: {fileID: 114678305193455830, guid: b67042affc59bdf469a26afcc712c2bc, type: 3}
+    AlwaysBoostedLaser: 0
+    Damage: 1.5
+    ReloadTime: 0.1
+    ProjectileSpeed: 27
+    MaxHp: 20
+  - OpenOnAllLevelsCompleted: 1
+    Name: Photon Phantom
+    Sprite: {fileID: 21300000, guid: 1cf897eb96e43944b91e4c19e765ccae, type: 3}
+    ShipContainer: {fileID: 6364133477646337186, guid: c7c6e3ef5e7e9e54684a5f9801b9ce9b, type: 3}
+    Cost: 0
+    UseGrayScale: 0
+    ProjectileColor: {r: 1, g: 1, b: 1, a: 1}
+    LaserPrefab: {fileID: 114117845178483124, guid: 9d5dbdf2d3c3c6b4eadc51123699d237, type: 3}
+    AlwaysBoostedLaser: 1
+    Damage: 2
+    ReloadTime: 0.1
+    ProjectileSpeed: 30
+    MaxHp: 25

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5458658d2a1143a4b0d822e34d183593, type: 3}
+  m_Name: Level 29 - Mission 4
+  m_EditorClassIdentifier: 
+  RewardScoresForFullMission: 0
+  SpeedMultiplier: 1.56
+  Stages:
+  - SpawnObjectsType: 0
+    ObjectsCount: 1
+    SpawnObjectData: {fileID: 11400000, guid: bca4bc4bfd9d7ca4ba8a57d0eb5a58ad, type: 2}
+    ShootCooldown: 1.16
+    Health: 38
+  - SpawnObjectsType: 1
+    ObjectsCount: 2
+    SpawnObjectData: {fileID: 11400000, guid: 893cadb7bd9653342b48b7e4c9deadae, type: 2}
+    ShootCooldown: 1.16
+    Health: 31
+  - SpawnObjectsType: 6
+    ObjectsCount: 20
+    SpawnObjectData: {fileID: 11400000, guid: 393b7f08585d7f94c81011c20dc9d7b6, type: 2}
+    ShootCooldown: 0
+    Health: 2
+  - SpawnObjectsType: 2
+    ObjectsCount: 10
+    SpawnObjectData: {fileID: 11400000, guid: fedc14fa7585c0f4bbfad1f4670da6e3, type: 2}
+    ShootCooldown: 0
+    Health: 10
+  - SpawnObjectsType: 3
+    ObjectsCount: 20
+    SpawnObjectData: {fileID: 11400000, guid: 1aedb70dd2010124aa74d20fd35d798a, type: 2}
+    ShootCooldown: 0
+    Health: 7
+  - SpawnObjectsType: 4
+    ObjectsCount: 20
+    SpawnObjectData: {fileID: 11400000, guid: d4e8ff7412c348e4eb41898fef11d191, type: 2}
+    ShootCooldown: 0
+    Health: 5
+  - SpawnObjectsType: 5
+    ObjectsCount: 20
+    SpawnObjectData: {fileID: 11400000, guid: 828e0ee0ecaad8f4f935f3c75302eb00, type: 2}
+    ShootCooldown: 0
+    Health: 3

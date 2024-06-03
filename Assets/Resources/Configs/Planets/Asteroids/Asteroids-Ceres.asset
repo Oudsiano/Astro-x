@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504d02d163fd4a81b2087afae8583d4b, type: 3}
+  m_Name: Asteroids-Ceres
+  m_EditorClassIdentifier: 
+  Size: 0.5
+  RotationSpeed: 5
+  Texture: {fileID: 2800000, guid: c49a6ac4f650d5541b67fffb9633bceb, type: 3}
+  InfoSlides:
+  - PreviewSprite: {fileID: 21300000, guid: e92832709ba5e3448aa364c593f355b8, type: 3}
+    TextAsset: {fileID: 4900000, guid: ba085569e62826743adf00f4e8ca5873, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: 2229c495ca622d643acdf65e56db1c89, type: 3}
+    TextAsset: {fileID: 4900000, guid: 7a87a84e5f090174da92ddf45197e15d, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: df3759e1e9235a045a5872042c6a7074, type: 3}
+    TextAsset: {fileID: 4900000, guid: c8f582137d617c94191aab9c5c6c9642, type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504d02d163fd4a81b2087afae8583d4b, type: 3}
+  m_Name: Saturn
+  m_EditorClassIdentifier: 
+  Size: 2
+  RotationSpeed: 5
+  Texture: {fileID: 2800000, guid: b726a1e8ae13b5f429b860f9eeedebaf, type: 3}
+  Prefab: {fileID: 1780738094, guid: b4201d402613a4464b35c805dafcca62, type: 3}
+  InfoSlides:
+  - PreviewSprite: {fileID: 21300000, guid: 5fbe29531caf7c24eaa6f0f6bfa877f8, type: 3}
+    TextAsset: {fileID: 4900000, guid: f4942c9f4aee4763b97042ac0d66c806, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: 3e0d52c081e232b40a82e57153b0f54a, type: 3}
+    TextAsset: {fileID: 4900000, guid: ba3c5092d10f4ec59a150eaa6e6cd74a, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: 4b726445128a23d4982e6bcc3881aedf, type: 3}
+    TextAsset: {fileID: 4900000, guid: 2a3f497586ce4f51a19dacb7f6546c80, type: 3}

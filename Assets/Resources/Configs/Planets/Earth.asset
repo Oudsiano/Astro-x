@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504d02d163fd4a81b2087afae8583d4b, type: 3}
+  m_Name: Earth
+  m_EditorClassIdentifier: 
+  Size: 2
+  RotationSpeed: 5
+  Texture: {fileID: 2800000, guid: efb5827ba806a214195b9eac832a03d4, type: 3}
+  Prefab: {fileID: 3838068188353460521, guid: 300f80108a63f48618cb4a1c8b8c1e86, type: 3}
+  InfoSlides:
+  - PreviewSprite: {fileID: 21300000, guid: 2f0e3b60f26bfc24bb967047da02c17f, type: 3}
+    TextAsset: {fileID: 4900000, guid: 32325d6abc2fd864f991b2e4ef504304, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: 4c153bfd371073646beceb38d53084b5, type: 3}
+    TextAsset: {fileID: 4900000, guid: 568074143d8686345a0d6c253e28fd64, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: 41729dc3007530a40ad7339c047c2636, type: 3}
+    TextAsset: {fileID: 4900000, guid: fb15c14e65b91ab4083d64677b6d182b, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: 209b78c8cbf92e947b7a04a028a410c1, type: 3}
+    TextAsset: {fileID: 4900000, guid: 2a61a2fba0bc5e743a1e36dd26484cda, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: d0df9248e2f84694c8701d6499afb1ec, type: 3}
+    TextAsset: {fileID: 4900000, guid: a2663387a3f47f249a36fcab02ff1712, type: 3}

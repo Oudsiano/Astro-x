@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504d02d163fd4a81b2087afae8583d4b, type: 3}
+  m_Name: Asteroids-Vesta
+  m_EditorClassIdentifier: 
+  Size: 0.5
+  RotationSpeed: 5
+  Texture: {fileID: 2800000, guid: ed569f9e248416f468e0947a4f00a317, type: 3}
+  InfoSlides:
+  - PreviewSprite: {fileID: 21300000, guid: 5d1c3cda9854267458437f07de17b347, type: 3}
+    TextAsset: {fileID: 4900000, guid: f13f032ca9eb7b843be8f7cf002981e5, type: 3}

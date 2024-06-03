@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504d02d163fd4a81b2087afae8583d4b, type: 3}
+  m_Name: ExternalArea
+  m_EditorClassIdentifier: 
+  Size: 0.5
+  RotationSpeed: 5
+  Texture: {fileID: 2800000, guid: c49a6ac4f650d5541b67fffb9633bceb, type: 3}
+  Prefab: {fileID: 0}
+  InfoSlides:
+  - PreviewSprite: {fileID: 21300000, guid: 3e0d52c081e232b40a82e57153b0f54a, type: 3}
+    TextAsset: {fileID: 4900000, guid: 977163745da2482ebca4f04e49c442b9, type: 3}

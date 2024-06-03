@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504d02d163fd4a81b2087afae8583d4b, type: 3}
+  m_Name: Kvavar
+  m_EditorClassIdentifier: 
+  Size: 0.02
+  RotationSpeed: 5
+  Texture: {fileID: 2800000, guid: 7fd714aefa35153428873bfd2a5370bb, type: 3}
+  Prefab: {fileID: 0}
+  InfoSlides:
+  - PreviewSprite: {fileID: 21300000, guid: 9a20f5b0f1c86e141a3ac7e6be883509, type: 3}
+    TextAsset: {fileID: 4900000, guid: 4d00f0584f53427c814eb8d0e748fb1e, type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bebb359eb154544b0ec82903bc46d11, type: 3}
+  m_Name: MeteoroidDefault
+  m_EditorClassIdentifier: 
+  Type: 4
+  MoveType: -1
+  SpawnObjects:
+  - {fileID: 6460407520609954355, guid: c6fe0381847dcbd49882de385243245a, type: 3}
+  Health: 5
+  ScoresForDestroy: 5
+  ShieldPercentBonusForDestroy: 0.05
+  CollisionToPlayerDamagePercent: 0.15
+  ScoresPenaltyOnCollision: 5
+  ShootCooldown: 0
+  ShootDamagePercent: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504d02d163fd4a81b2087afae8583d4b, type: 3}
+  m_Name: TNO_Info
+  m_EditorClassIdentifier: 
+  Size: 0.1
+  RotationSpeed: 5
+  Texture: {fileID: 0}
+  Prefab: {fileID: 0}
+  InfoSlides:
+  - PreviewSprite: {fileID: 21300000, guid: fac2207aff4043142a8766373e38e456, type: 3}
+    TextAsset: {fileID: 4900000, guid: b38b3c01ba3896640bb63660d9c24750, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: 4b080da4df4af344caed04aa43e8d8df, type: 3}
+    TextAsset: {fileID: 4900000, guid: d371496b1acc413596b89bd35b309c5d, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504d02d163fd4a81b2087afae8583d4b, type: 3}
+  m_Name: Nikta
+  m_EditorClassIdentifier: 
+  Size: 0.8
+  RotationSpeed: 5
+  Texture: {fileID: 2800000, guid: 0d990ca5cd48a314f87dd52878259869, type: 3}
+  Prefab: {fileID: 6846899027526805074, guid: 5c841f0771abff449a8930359efc5c24, type: 3}
+  InfoSlides:
+  - PreviewSprite: {fileID: 21300000, guid: a2814579e61bf9946b9d4052b5a6c37b, type: 3}
+    TextAsset: {fileID: 4900000, guid: 16a562dcb27f45c4a6e808862f653cc0, type: 3}

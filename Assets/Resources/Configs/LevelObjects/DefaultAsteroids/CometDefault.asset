@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bebb359eb154544b0ec82903bc46d11, type: 3}
+  m_Name: CometDefault
+  m_EditorClassIdentifier: 
+  Type: 5
+  MoveType: -1
+  SpawnObjects:
+  - {fileID: 630837010401805569, guid: e31dfb2ef6c401a4ca9ca6e8926efdec, type: 3}
+  Health: 3
+  ScoresForDestroy: 5
+  ShieldPercentBonusForDestroy: 0
+  CollisionToPlayerDamagePercent: 0.1
+  ScoresPenaltyOnCollision: 2
+  ShootCooldown: 0
+  ShootDamagePercent: 0

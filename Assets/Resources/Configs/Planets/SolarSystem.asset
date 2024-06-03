@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504d02d163fd4a81b2087afae8583d4b, type: 3}
+  m_Name: SolarSystem
+  m_EditorClassIdentifier: 
+  Size: 2
+  RotationSpeed: 5
+  Texture: {fileID: 0}
+  Prefab: {fileID: 0}
+  InfoSlides:
+  - PreviewSprite: {fileID: 21300000, guid: b5810bea2090f27428cd0995b28946a3, type: 3}
+    TextAsset: {fileID: 4900000, guid: 4a97eef15dc02ec4fa12c070f357de88, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: 7dec40f13ff5345f38b55747293f2711, type: 3}
+    TextAsset: {fileID: 4900000, guid: 4ae56c8e71453d144b8c3b89d84d64bc, type: 3}
+  - PreviewSprite: {fileID: 21300000, guid: 4e94f383014d441608c7564b75aa5345, type: 3}
+    TextAsset: {fileID: 4900000, guid: c84cd5f8d3dde64459409a1a68153f47, type: 3}

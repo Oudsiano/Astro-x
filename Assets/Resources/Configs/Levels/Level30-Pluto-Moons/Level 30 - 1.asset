@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10caa74bc03f48ea8a5db995914296c0, type: 3}
+  m_Name: Level 30 - 1
+  m_EditorClassIdentifier: 
+  LevelName: "\u041C\u0430\u043A\u0435\u043C\u0430\u043A\u0435"
+  ShowPlanetInfo: 1
+  OnlyShowInfo: 0
+  LevelMusic: {fileID: 8300000, guid: 0bd3d63345e764a4d88934e6da929b89, type: 3}
+  LevelMusicPath: "Audio/Music/Level 30/\u041C\u0410\u041A\u0415\u041C\u0410\u041A\u0415
+    (1)"
+  LevelMission: {fileID: 11400000, guid: 95c2bb34cd58c7542b3e33ccd778ddf0, type: 2}
+  Planet: {fileID: 11400000, guid: d2cfbed65de871347942ef72b8d50716, type: 2}
+  PlanetStartPosition: 0.5
+  PlanetHorizontalPosition: 0.675
+  PlanetSizeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.6
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0.6
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  PlanetLeaveTime: 400
+  StopPlanetOnEnd: 0
